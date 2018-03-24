@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="pytanie1">Choose the year of the beginning and the end of WWII :</string>
+    <string name="pytanie1odpa">1939</string>
+    <string name="pytanie1odpb">1940</string>
+    <string name="pytanie1odpc">1945</string>
+    <string name="pytanie1odpd">1946</string>
+    <string name="pytanie2">What is the capital city of Poland ?</string>
+    <string name="pytanie2odpa">Berlin</string>
+    <string name="pytanie2odpb">Warsaw</string>
+    <string name="pytanie2odpc">Moscow</string>
+    <string name="pytanie3">How many countries are in the European Union ?</string>
+    <string name="pytanie4">Flag of which country is presented below ?</string>
+    <string name="pytanie4odpa">Russia</string>
+    <string name="pytanie4odpb">Poland</string>
+    <string name="pytanie4odpc">Hungary</string>
+    <string name="Answer">Answer : </string>
+    <string name="check">Check</string>
+</resources>
